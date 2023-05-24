@@ -1,5 +1,5 @@
 class main: 
-    def __init__(self,key:dict) -> None:
+    def __init__(self, key: dict) -> None:
         self.key = key
 
     def get_input(self) -> None: 
